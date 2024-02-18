@@ -7,7 +7,7 @@ on:
 
 jobs:
   Build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     # You can use either of the ubuntu-18.04 or ubuntu-20.04 runner
     steps:
  
